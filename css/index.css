@@ -1,0 +1,38 @@
+body {
+	font-family: Geneva, Tahoma, sans-serif;
+
+	background-color: rgb(206, 239, 157);
+}
+
+h1 {
+	letter-spacing: 5px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+img {
+	display: block;
+	width: 250px;
+	height: auto;
+	margin: 0 auto;
+}
+
+div {
+	width: 250px;
+	margin: 30px auto;
+}
+
+ul li a, ul li{
+	text-decoration: none;
+	list-style: none;
+	font-size: 18px;
+}
+
+ul li a:hover {
+	color: green;
+	font-size: 21px;
+}
+
+ul li a:after {
+	color: gray;
+}
