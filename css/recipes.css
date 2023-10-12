@@ -1,0 +1,40 @@
+body {
+	font-family: Geneva, Tahoma, sans-serif;
+
+	background-color: rgb(206, 239, 157);
+}
+
+h1 {
+	letter-spacing: 5px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+img {
+	display: block;
+	width: 250px;
+	height: auto;
+	margin: 0 auto;
+}
+
+h2 {
+	letter-spacing: 3px;
+}
+
+p {
+	text-align: justify;
+	line-height: 30px;
+}
+
+ul li, ol li {
+	line-height: 30px;
+	text-align: justify;
+}
+
+ul li {
+	list-style: square;
+}
+
+ol li {
+	list-style: upper-roman;
+}
